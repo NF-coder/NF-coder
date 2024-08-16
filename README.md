@@ -10,4 +10,4 @@
 <br>
 
 <p>Feel free to contact me 🔭: </p>
-<a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-blue"></a>
+<a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-purple"></a>
