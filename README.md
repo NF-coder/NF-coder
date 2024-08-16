@@ -8,8 +8,7 @@
 </div>
 
 <br>
-<br>
 
-Feel free to contact me :telescope:
+<p>Feel free to contact me 🔭: </p>
 <br>
 <a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
