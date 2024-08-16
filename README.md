@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-
+<img src="img/bg.png" width=100%>
 <h4>📃 I'm currently learning: </h4>
 <div display=flex flex-direction=row gap=20px>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
