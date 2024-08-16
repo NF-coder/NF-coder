@@ -1,7 +1,5 @@
 <h1>Hi there! 👋</h1>
 
-<hr>
-
 <p>📃 I'm currently learning: </p>
 <div display=flex flex-direction=row gap=20px>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
