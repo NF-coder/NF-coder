@@ -1,4 +1,3 @@
-<h1>Hi there! 👋</h1>
 <img src="img/bg.png" width=100%>
 <h4>📃 I'm currently learning: </h4>
 <div display=flex flex-direction=row gap=20px>
