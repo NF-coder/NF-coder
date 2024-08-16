@@ -1,1 +1,1 @@
-<img src="img/bio.jpg" width=100%/>
+## Hi there!
