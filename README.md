@@ -7,5 +7,5 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <br>
-<p>Feel free to contact me 🔭: </p>
+<h4>Feel free to contact me 🔭: </h4>
 <a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-purple"></a>
