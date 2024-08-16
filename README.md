@@ -6,6 +6,5 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-<br>
 <h4>Feel free to contact me 🔭: </h4>
 <a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-purple"></a>
