@@ -7,4 +7,3 @@
 </div>
 <h4>🔭 Feel free to contact me: </h4>
 <a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-purple"></a>
-<button hieght=400 width=400 onClick="console.log('test')">Test</button>
