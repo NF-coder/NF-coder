@@ -7,3 +7,5 @@
 </div>
 <h4>🔭 Feel free to contact me: </h4>
 <a href="https://t.me/ReshNF" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40ReshNF-purple"></a>
+
+<img src="https://nf-coder.github.io/stats-badge/out.svg">
